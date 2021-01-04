@@ -13,3 +13,7 @@ If you choose a decent location, you should expect real estate to give you a few
 ## Stocks
 
 There are so many stocks out there that you can't really give advice for what stocks to choose. There are so many scammy ads online and articles that offer subscription services or special lists that are "bound to perform well." Cut the crap and do your own research. The best rule of thumb is to choose stocks you like and believe in, and just hold them for a very long time. Unless you have a strong reason to sell, you should probably just wait it out and truly invest in the company you own stock of.
+
+### Earnings
+
+### Dividends
