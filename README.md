@@ -10,13 +10,13 @@ spending and storing your money.
 
 ## Chapters
 
-1. [Free Money](chapters/chap1.md)
-2. [Low Risk](chapters/chap2.md)
-3. [Medium Risk](chapters/chap3.md)
-4. [Gambling](chapters/chap4.md)
-5. [Earning by Spending](chapters/chap5.md)
-6. [What you should not be doing](chapters/chap6.md)
-7. [Putting it All Together](chapters/chap7.md)
+1. [Free Money](chapters/chap1.md): Guaranteed money, but not that much
+2. [Low Risk](chapters/chap2.md): Longer term gains
+3. [Medium Risk](chapters/chap3.md): Decent money with occasional ups and downs
+4. [Gambling](chapters/chap4.md): More gains or losses in less time
+5. [Earning by Spending](chapters/chap5.md): Credit cards, rewards programs, etc. [WIP]
+6. [What you should not be doing](chapters/chap6.md): Red flags with money management
+7. [Putting it All Together](chapters/chap7.md): Example portfolio allocations
 
 ## If you just want to blindly do everything
 
